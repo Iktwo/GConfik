@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/MainPage.qml</file>
+        <file>images/iktwo.png</file>
+        <file>qml/AboutDialog.qml</file>
+        <file>qml/TittleBar.qml</file>
+        <file>images/splash.png</file>
+        <file>qml/KeyTypeBool.qml</file>
+        <file>qml/KeyTypeString.qml</file>
+        <file>qml/KeyTypeInt.qml</file>
+        <file>qml/KeyTypeDouble.qml</file>
+        <file>qml/KeyTypeStringList.qml</file>
+        <file>images/remove.png</file>
+    </qresource>
+</RCC>

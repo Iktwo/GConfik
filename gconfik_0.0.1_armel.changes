@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Mon, 19 Dec 2011 19:08:23 -0600
+Source: gconfik
+Binary: gconfik
+Architecture: armel
+Version: 0.0.1
+Distribution: unstable
+Urgency: low
+Maintainer: unknown <iktwo@unknown>
+Changed-By: unknown <iktwo@unknown>
+Description: 
+ gconfik    - <insert up to 60 chars description>
+Changes: 
+ gconfik (0.0.1) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ 6463b1eec3bc89c924b21a31e78077fcc3a5932d 41228 gconfik_0.0.1_armel.deb
+Checksums-Sha256: 
+ 0c1849421662adca2dc54dd851b33de7dcf1a668e0fa9d56bb4ad4bcdbc72593 41228 gconfik_0.0.1_armel.deb
+Files: 
+ 98e2ac2a2e59860e14a42703f5f42671 41228 user/other optional gconfik_0.0.1_armel.deb
+Maemo-Display-Name: gconfik

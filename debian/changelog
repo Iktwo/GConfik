@@ -1,0 +1,10 @@
+gconfik (1.1.0) unstable; urgency=low
+  * Added support for StringList (add, remove, modify)
+
+ -- Iktwo <elmailiktwo@gmail.com>  Fri, 13 Jan 2012 17:41:40 -0600
+
+gconfik (1.0.0) unstable; urgency=low
+  * Initial Release.
+
+ -- Iktwo <elmailiktwo@gmail.com>  Thu, 12 Jan 2012 23:58:42 -0600
+
